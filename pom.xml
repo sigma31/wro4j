@@ -107,7 +107,7 @@
 		<jakarta-jsp-api.version>3.1.1</jakarta-jsp-api.version>
 		<jakarta-servlet-api.version>6.0.0</jakarta-servlet-api.version>
 		<less4j.version>1.17.2</less4j.version>
-		<maven.version>3.8.6</maven.version>
+		<maven.version>3.9.8</maven.version>
 		<maven-plugin-annotations.version>3.9.0</maven-plugin-annotations.version>
 		<maven-plugin-testing-harness.version>3.3.0</maven-plugin-testing-harness.version>
 		<mockito.version>5.3.1</mockito.version>
